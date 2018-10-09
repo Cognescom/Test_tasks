@@ -1,0 +1,6 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Ξυ8ί‰‚Σε,
+bsquid:S2147$"DCombine this catch with the one at line 34, which has the same body.(Ι®£8ί‰‚Σε,
+Fsquid:S1148#"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ί‰‚Σε,
+Fsquid:S1148%"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ί‰‚Σε,
